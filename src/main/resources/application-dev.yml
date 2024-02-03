@@ -1,0 +1,12 @@
+spring:
+  datasource:
+      url:
+      username:
+      password: root
+      driver-class-name: org.postgresql.Driver
+      platform: org.hibernate.dialect.PostgreSQLDialect
+  jpa:
+    show-sql: false
+aws:
+    secret: momo-loan-processing
+

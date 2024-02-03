@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: aws-secret-manager-service
+  profiles:
+    active: local
+aws:
+  region: eu-west-1
+
