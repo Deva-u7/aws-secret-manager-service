@@ -2,7 +2,7 @@ spring:
   main:
     allow-bean-definition-overriding: true
   datasource:
-    url: jdbc:postgresql://localhost:5432/momo_loan_processing
+    url: jdbc:postgresql://localhost:5432/loan_processing
     username: postgres
     password: root
     driver-class-name: org.postgresql.Driver
