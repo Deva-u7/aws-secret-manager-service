@@ -8,5 +8,5 @@ spring:
   jpa:
     show-sql: false
 aws:
-    secret: momo-loan-processing
+    secret:loan-processing
 
