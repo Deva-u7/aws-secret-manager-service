@@ -1,5 +1,3 @@
-Here is a README file for your repository:
-
 ```
 # AWS Secret Manager
 
