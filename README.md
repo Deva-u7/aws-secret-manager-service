@@ -1,5 +1,7 @@
-```
-# AWS Secret Manager
+Here is the updated README.md file with the new repository name:
+
+```markdown
+# AWS Secret Manager Service
 
 ## Overview
 This repository demonstrates how to read environment values from AWS Secret Manager using a Java-based Spring Boot application.
@@ -13,8 +15,8 @@ This repository demonstrates how to read environment values from AWS Secret Mana
 
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/Deva-u7/aws-secret-manager.git
-cd aws-secret-manager
+git clone https://github.com/Deva-u7/aws-secret-manager-service.git
+cd aws-secret-manager-service
 ```
 
 ### 2. Configure AWS Secret Manager
@@ -41,8 +43,3 @@ mvn clean install
 mvn spring-boot:run
 ```
 2. The application will start and read the environment values from AWS Secret Manager.
-
-For any issues or improvements, please open an issue or contact the maintainers.
-```
-
-Feel free to modify it further based on your specific needs.
