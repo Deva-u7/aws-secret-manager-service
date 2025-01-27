@@ -1,6 +1,3 @@
-Here is the updated README.md file with the new repository name:
-
-```markdown
 # AWS Secret Manager Service
 
 ## Overview
